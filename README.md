@@ -13,8 +13,7 @@ This project is a web player clone inspired by the Spotify interface. It provide
 - [Technologies Used](#technologies-used)
 
 ## Demo
-
-[https://lustrous-peony-4d494f.netlify.app/](#) <!-- Replace with the actual link once the project is deployed -->
+https://lustrous-peony-4d494f.netlify.app/(#) <!-- Replace with the actual link once the project is deployed -->
 
 ## Features
 
